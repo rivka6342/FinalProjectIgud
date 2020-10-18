@@ -1,0 +1,31 @@
+
+<div class="form-field" dir:rtl>
+<mat-form-field appearance="fill">
+    <mat-label >שם:</mat-label>
+    <input matInput #Firstname>
+  </mat-form-field> 
+  <br>
+  <mat-form-field appearance="fill">
+    <mat-label >משפחה:</mat-label>
+    <input matInput #LastName>
+  </mat-form-field> 
+  <br>
+  <mat-form-field>
+    <mat-label>סוג:</mat-label>
+    <mat-select [formControl]="KindControl">
+      <mat-option *ngFor="let kind of kinds" [value]="kind">{{kind}}</mat-option>       
+    </mat-select>
+  </mat-form-field> 
+ <br>
+ <mat-form-field appearance="fill">
+  <mat-label >טלפון:</mat-label>
+  <input matInput #Phone>
+</mat-form-field> 
+<br>
+<mat-form-field appearance="fill">
+  <mat-label >מייל:</mat-label>
+  <input matInput #eMail>
+</mat-form-field> 
+<br>
+</div>
+<button mat-stroked-button color="blue" (click)="artistService.postArtist(Firstname.value,LastName.value,KindControl.value,Phone.value,eMail.value)">שמירה</button>

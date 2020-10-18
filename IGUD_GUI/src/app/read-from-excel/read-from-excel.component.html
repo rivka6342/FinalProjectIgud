@@ -1,0 +1,49 @@
+<p>read-from-excel works!</p>
+<!-- <div class="col-md-8 form-group">        
+    <input type="file" class="form-control" (change)="addfile($event)" placeholder="Upload file" accept=".csv,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, application/vnd.ms-excel">        
+  </div>      -->
+
+  <div class="container">  
+    <br>  
+    <div class="row">  
+        <div class="col-md-6">  
+            <input class="form-control" type="file" #fileInput />  
+        </div>  
+        <div class="col-md-6">  
+            <button class="btn btn-primary" (click)="uploadFile();">Upload</button>  
+        </div>  
+    </div>  
+    <div>  
+        <h4 class="alert-success">{{message}}</h4>  
+    </div>  
+    <div>  
+        <table class="table">  
+            <tr class="btn-primary">  
+              <th>תעודת זהות</th>
+              <th>שם פרטי</th>
+              <th>שם משפחה</th>
+              <th>מייל</th>
+              <th>קוד קהילה</th>
+              <th>תאריך לידה</th>
+              <th>רחוב </th>
+              <th>מספר </th>
+              <th>טלפון </th>
+              <th>מגזר</th>  
+            </tr>  
+            <tr *ngFor="let user of allUsers | async">  
+              <td >{{user.UserId }}</td>
+              <td>{{user.FirstName }}</td>
+              <td>{{user.LastName }}</td>
+              <td>{{user.Email }}</td>
+              <td>{{user.CommunityName}}</td>
+              <td >{{user.BirthDate |date:'shortDate'}}</td>
+              <td>{{user.Phone}}</td>
+              <td>{{user.Street}}</td>
+              <td>{{user.HouseNumber}}</td>
+              <td>{{user.Sector}}</td> 
+  
+            </tr>  
+  
+        </table>  
+    </div>  
+</div>  

@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="IgudDBModelStoreContainer" CdmEntityContainer="IgudDBEntities">
+    <EntitySetMapping Name="Activities">
+      <EntityTypeMapping TypeName="IgudDBModel.Activity">
+        <MappingFragment StoreEntitySet="Activities">
+          <ScalarProperty Name="tittle" ColumnName="tittle" />
+          <ScalarProperty Name="Prepay" ColumnName="Prepay" />
+          <ScalarProperty Name="ArtistId" ColumnName="ArtistId" />
+          <ScalarProperty Name="NumSubscibers" ColumnName="NumSubscibers" />
+          <ScalarProperty Name="Describe" ColumnName="Describe" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="ActiveId" ColumnName="ActiveId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Artists">
+      <EntityTypeMapping TypeName="IgudDBModel.Artist">
+        <MappingFragment StoreEntitySet="Artists">
+          <ScalarProperty Name="eMail" ColumnName="eMail" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Kind" ColumnName="Kind" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="ArtistId" ColumnName="ArtistId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Communities">
+      <EntityTypeMapping TypeName="IgudDBModel.Community">
+        <MappingFragment StoreEntitySet="Communities">
+          <ScalarProperty Name="delitiondate" ColumnName="delitiondate" />
+          <ScalarProperty Name="IsDelete" ColumnName="IsDelete" />
+          <ScalarProperty Name="RavName" ColumnName="RavName" />
+          <ScalarProperty Name="HouseNumber" ColumnName="HouseNumber" />
+          <ScalarProperty Name="Street" ColumnName="Street" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="CommunityName" ColumnName="CommunityName" />
+          <ScalarProperty Name="CommunityId" ColumnName="CommunityId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Guys">
+      <EntityTypeMapping TypeName="IgudDBModel.Guy">
+        <MappingFragment StoreEntitySet="Guys">
+          <ScalarProperty Name="Lesson" ColumnName="Lesson" />
+          <ScalarProperty Name="YeshivaId" ColumnName="YeshivaId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Schools">
+      <EntityTypeMapping TypeName="IgudDBModel.School">
+        <MappingFragment StoreEntitySet="Schools">
+          <ScalarProperty Name="DeletionDate" ColumnName="DeletionDate" />
+          <ScalarProperty Name="IsDelete" ColumnName="IsDelete" />
+          <ScalarProperty Name="IsBig" ColumnName="IsBig" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="YeshivaId" ColumnName="YeshivaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sectors">
+      <EntityTypeMapping TypeName="IgudDBModel.sector">
+        <MappingFragment StoreEntitySet="sector">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="kind" ColumnName="kind" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SignActivities">
+      <EntityTypeMapping TypeName="IgudDBModel.SignActivity">
+        <MappingFragment StoreEntitySet="SignActivities">
+          <ScalarProperty Name="SignActivityID" ColumnName="SignActivityID" />
+          <ScalarProperty Name="ActivyId" ColumnName="ActivyId" />
+          <ScalarProperty Name="GuyId" ColumnName="GuyId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SignStudyHours">
+      <EntityTypeMapping TypeName="IgudDBModel.SignStudyHour">
+        <MappingFragment StoreEntitySet="SignStudyHours">
+          <ScalarProperty Name="StudyId" ColumnName="StudyId" />
+          <ScalarProperty Name="LongStudy" ColumnName="LongStudy" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="GuyId" ColumnName="GuyId" />
+          <ScalarProperty Name="StudyHoursId" ColumnName="StudyHoursId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StudyHours">
+      <EntityTypeMapping TypeName="IgudDBModel.StudyHour">
+        <MappingFragment StoreEntitySet="StudyHours">
+          <ScalarProperty Name="tittle" ColumnName="tittle" />
+          <ScalarProperty Name="TimeEnd" ColumnName="TimeEnd" />
+          <ScalarProperty Name="TimeStart" ColumnName="TimeStart" />
+          <ScalarProperty Name="DateEnd" ColumnName="DateEnd" />
+          <ScalarProperty Name="DateStart" ColumnName="DateStart" />
+          <ScalarProperty Name="StudyId" ColumnName="StudyId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="IgudDBModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="Sector" ColumnName="Sector" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="HouseNumber" ColumnName="HouseNumber" />
+          <ScalarProperty Name="Street" ColumnName="Street" />
+          <ScalarProperty Name="BirthDate" ColumnName="BirthDate" />
+          <ScalarProperty Name="DeleletionDate" ColumnName="DeleletionDate" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="UserType" ColumnName="UserType" />
+          <ScalarProperty Name="CommunityId" ColumnName="CommunityId" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Winners">
+      <EntityTypeMapping TypeName="IgudDBModel.Winner">
+        <MappingFragment StoreEntitySet="Winners">
+          <ScalarProperty Name="describe" ColumnName="describe" />
+          <ScalarProperty Name="ActivityId" ColumnName="ActivityId" />
+          <ScalarProperty Name="DateWin" ColumnName="DateWin" />
+          <ScalarProperty Name="WinnerId" ColumnName="WinnerId" />
+          <ScalarProperty Name="IdWin" ColumnName="IdWin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

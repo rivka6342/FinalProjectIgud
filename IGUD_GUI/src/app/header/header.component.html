@@ -1,0 +1,24 @@
+<div class="header-main">
+  <div class="right-header">
+    <img class="logo"  alt="Angular Logo" src={{logoSrc}}>
+    <div class="links-contet"> 
+      <span class="header-link"><a routerLink='guy' class="link">בחורים</a></span>
+      <span class="header-link"><a routerLink='sector' class="link">מנהלי מגזרים</a></span>
+      <span class="header-link"><a routerLink='user' class="link">גבאי קהילות</a></span>
+      <span class="header-link"><a routerLink='activity' class="link">טיולים</a></span>
+      <span class="header-link"><a routerLink='signHours' class="link">רישום שעות לימוד</a></span>
+      <span class="header-link"><a routerLink='signActivity' class="link">רישום לאירוע</a></span>
+      <span class="header-link"><a routerLink='studyHours' class="link">סדרי לימוד</a></span>
+      <span class="header-link"><a routerLink='read-from-excel' class="link">excel</a></span>
+    </div>
+  </div>
+  <div class="left-header private">
+    <span>אזור אישי</span>
+  </div>
+</div>
+<div #header>
+<h3>View Child Example</h3>
+</div>
+<input #colorPicker type="color" (change)="setHeaderColor()">
+<!-- routerLink='coordinator' -->
+<!-- routerLink='activities' -->

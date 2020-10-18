@@ -1,0 +1,73 @@
+Y:\תשפ\3\אילה קליין\project\new\IGUD\DTO\bin\Debug\DTO.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\DTO\bin\Debug\DTO.pdb
+Y:\תשפ\3\אילה קליין\project\new\IGUD\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\אילה קליין\project\new\IGUD\DTO\obj\Debug\DTO.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\DTO\obj\Debug\DTO.pdb
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\DTO\bin\Debug\DTO.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\DTO\bin\Debug\DTO.pdb
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\DTO\obj\Debug\DTO.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\DTO\obj\Debug\DTO.pdb
+C:\Users\USER\Desktop\project\project\new\IGUD\DTO\bin\Debug\DTO.dll
+C:\Users\USER\Desktop\project\project\new\IGUD\DTO\bin\Debug\DTO.pdb
+C:\Users\USER\Desktop\project\project\new\IGUD\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\project\project\new\IGUD\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\project\project\new\IGUD\DTO\obj\Debug\DTO.dll
+C:\Users\USER\Desktop\project\project\new\IGUD\DTO\obj\Debug\DTO.pdb
+C:\project\project\new\IGUD\DTO\bin\Debug\DTO.dll.config
+C:\project\project\new\IGUD\DTO\bin\Debug\DTO.dll
+C:\project\project\new\IGUD\DTO\bin\Debug\DTO.pdb
+C:\project\project\new\IGUD\DTO\bin\Debug\EntityFramework.dll
+C:\project\project\new\IGUD\DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\project\project\new\IGUD\DTO\bin\Debug\EntityFramework.xml
+C:\project\project\new\IGUD\DTO\bin\Debug\EntityFramework.SqlServer.xml
+C:\project\project\new\IGUD\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\project\project\new\IGUD\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\project\project\new\IGUD\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\project\project\new\IGUD\DTO\obj\Debug\DTO.dll
+C:\project\project\new\IGUD\DTO\obj\Debug\DTO.pdb
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DTO\bin\Debug\DTO.dll.config
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DTO\bin\Debug\DTO.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DTO\bin\Debug\DTO.pdb
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DTO\bin\Debug\EntityFramework.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DTO\bin\Debug\EntityFramework.SqlServer.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DTO\bin\Debug\EntityFramework.xml
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DTO\bin\Debug\EntityFramework.SqlServer.xml
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DTO\obj\Debug\DTO.csproj.CopyComplete
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DTO\obj\Debug\DTO.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DTO\obj\Debug\DTO.pdb
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DTO\bin\Debug\DTO.dll.config
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DTO\bin\Debug\DTO.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DTO\bin\Debug\DTO.pdb
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DTO\bin\Debug\EntityFramework.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DTO\bin\Debug\EntityFramework.SqlServer.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DTO\bin\Debug\EntityFramework.xml
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DTO\bin\Debug\EntityFramework.SqlServer.xml
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DTO\obj\Debug\DTO.csproj.CopyComplete
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DTO\obj\Debug\DTO.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DTO\obj\Debug\DTO.pdb
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DTO\bin\Debug\DTO.dll.config
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DTO\bin\Debug\DTO.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DTO\bin\Debug\DTO.pdb
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DTO\bin\Debug\EntityFramework.xml
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DTO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DTO\obj\Debug\DTO.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DTO\obj\Debug\DTO.pdb
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DTO\bin\Debug\DTO.dll.config
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DTO\bin\Debug\DTO.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DTO\bin\Debug\DTO.pdb
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DTO\bin\Debug\EntityFramework.xml
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DTO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DTO\obj\Debug\DTO.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DTO\obj\Debug\DTO.pdb

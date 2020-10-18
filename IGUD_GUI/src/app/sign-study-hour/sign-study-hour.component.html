@@ -1,0 +1,28 @@
+<div>
+    <mat-form-field appearance="fill">
+        <mat-label >מספר זהות:</mat-label>
+        <input matInput #tz>
+      </mat-form-field> 
+      <br>
+      <mat-form-field appearance="fill">
+        <mat-label >תאריך:</mat-label>
+        <input matInput #Date type="date">
+      </mat-form-field> 
+      <br>
+      <mat-form-field appearance="fill">
+        <mat-label >משך זמן הלימוד בדקות:</mat-label>
+        <input matInput #LongStudy type="number">
+      </mat-form-field> 
+      <br>
+      <mat-form-field>
+        <mat-label >סדר לימוד:</mat-label>      
+        <mat-select [formControl]="StudyControl" >
+          <mat-option *ngFor="let study of studyService.StudyHours" [value]="study.StudyId" >
+            {{study.StudyId}}
+          </mat-option>
+        </mat-select>     
+        </mat-form-field>
+        <br>    
+</div>
+<button mat-stroked-button color="blue" (click)="signStudyService.postStudy(tz.value,Date.value,LongStudy.value,StudyControl.value)">שמירה</button>
+

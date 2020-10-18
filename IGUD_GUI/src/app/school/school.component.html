@@ -1,0 +1,22 @@
+<!-- <div>
+  <li><a routerLink="/addSchool">לישיבה חדשה</a></li>
+      <button mat-stroked-button color="accent" (click)="putItem()">עדכון</button>   
+<button mat-stroked-button color="accent" (click)="schoolService.getSchools()">רשימת הישיבות</button>
+<button mat-stroked-button color="accent" (click)="schoolService.getSchoolById(1)">קבלת ישיבה</button>
+<button mat-stroked-button color="accent" (click)="schoolService.deleteSchoolById(3)">מחיקת ישיבה</button>
+</div> -->
+<h3>בחר ישיבה רצויה:</h3>
+<div class="form-field" dir:rtl>
+<mat-form-field>
+    <!-- <mat-label >קהילה:</mat-label>       -->
+    <mat-select [formControl]="SchoolControl" >
+      <mat-option *ngFor="let school of schoolService.Schools" [value]="school.YeshivaId" >
+      <span> {{school.Name}}</span> 
+       <!-- <span *ngIf="guy.IsBig==false">{{קטנה}}</span> -->
+       <!-- <span *ngIf="guy.IsBig==true">{{  גדולה }}</span> -->
+      </mat-option>
+    </mat-select>     
+    </mat-form-field> 
+    <br>    
+    <button (click)="choose(SchoolControl.value)" >בחירה</button>
+  </div>

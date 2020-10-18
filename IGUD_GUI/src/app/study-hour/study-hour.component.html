@@ -1,0 +1,27 @@
+
+<table id="customers">
+    <tr>
+     <th>כותרת</th>
+      <th>תאריך התחלה</th>
+      <th> תאריך סיום</th>
+      <th>שעת התחלה</th>
+      <th>שעת סיום</th>
+      <th>מחיקה</th>
+    </tr>
+    <tr *ngFor="let s of studyHourService.StudyHours">
+       <td #UserId>{{s.tittle}}</td>
+       <td>{{s.DateStart |date:'shortDate'}}</td>
+       <td>{{s.DateEnd |date:'shortDate'}}</td>
+       <td>{{s.TimeStart}}</td>
+       <td>{{s.TimeEnd}}</td>
+       <!-- מחיקה עם דיאלוג -->
+       <td (click)="openDialog(s.StudyId)"><img class="Image"  alt="Angular_garbage" src="../../assets/images/trash.png"></td> 
+      <!-- מחיקה רגילה -->
+       <!-- <td (click)="guyService.deleteGuyById(guy.UserId )"><img class="Image"  alt="Angular_garbage" src="../../assets/images/trash.png"></td>  -->
+       <!-- <td (click)="put(guy.UserId)"> -->
+         <!-- <img class="Image_Edit" src="../../assets/images/edit.png"> -->
+      <!-- </td> -->
+      <!-- <td><img class="Image"  alt="Angular_garbage" src="../../assets/images/trash.png"></td> -->
+    </tr>
+</table>
+<button mat-stroked-button color="blue" (click)="add()">הוספה</button> 

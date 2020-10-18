@@ -1,0 +1,8 @@
+<div class="example-container">    
+    <mat-form-field appearance="fill">
+      <mat-label>password</mat-label>
+      <input #password matInput type="password" >
+    </mat-form-field>
+    <br>
+    <button mat-raised-button (click)="authService.login(password.value)">LogIn</button>
+  </div>

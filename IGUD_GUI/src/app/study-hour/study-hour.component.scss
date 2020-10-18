@@ -1,0 +1,42 @@
+.design-div{
+    height: 100px;
+      max-width: 100%;
+      background-color:#f1f1cd ;
+  }
+  .table-content{
+    width: 70%;
+   margin-left: 10%;
+  }
+  #customers {
+      //font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+      
+    }
+    
+    #customers td, #customers th {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+    
+    #customers tr:nth-child(even){background-color: #f2f2f2;}
+    
+    #customers tr:hover {background-color: #ddd;}
+    
+    #customers th {
+      padding-top: 12px;
+      padding-bottom: 12px;
+      text-align: right;
+      background-color:white;
+      color: black;
+    }
+    .Image{
+        widows: 5%;
+        height: 5%;
+    }
+    .Image_Edit
+    {
+      width: 20%;
+      height: 20%;
+    }
+    

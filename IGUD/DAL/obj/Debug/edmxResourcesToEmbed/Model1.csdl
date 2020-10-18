@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="IgudDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="IgudDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Activities" EntityType="IgudDBModel.Activity" />
+    <EntitySet Name="Artists" EntityType="IgudDBModel.Artist" />
+    <EntitySet Name="Communities" EntityType="IgudDBModel.Community" />
+    <EntitySet Name="Guys" EntityType="IgudDBModel.Guy" />
+    <EntitySet Name="Schools" EntityType="IgudDBModel.School" />
+    <EntitySet Name="sectors" EntityType="IgudDBModel.sector" />
+    <EntitySet Name="SignActivities" EntityType="IgudDBModel.SignActivity" />
+    <EntitySet Name="SignStudyHours" EntityType="IgudDBModel.SignStudyHour" />
+    <EntitySet Name="StudyHours" EntityType="IgudDBModel.StudyHour" />
+    <EntitySet Name="Users" EntityType="IgudDBModel.User" />
+    <EntitySet Name="Winners" EntityType="IgudDBModel.Winner" />
+    <AssociationSet Name="FK_Activities_ToTable" Association="IgudDBModel.FK_Activities_ToTable">
+      <End Role="Artist" EntitySet="Artists" />
+      <End Role="Activity" EntitySet="Activities" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SignActivities_ToTable_1" Association="IgudDBModel.FK_SignActivities_ToTable_1">
+      <End Role="Activity" EntitySet="Activities" />
+      <End Role="SignActivity" EntitySet="SignActivities" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Winners_ToTable_1" Association="IgudDBModel.FK_Winners_ToTable_1">
+      <End Role="Activity" EntitySet="Activities" />
+      <End Role="Winner" EntitySet="Winners" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Users__Community__47DBAE45" Association="IgudDBModel.FK__Users__Community__47DBAE45">
+      <End Role="Community" EntitySet="Communities" />
+      <End Role="User" EntitySet="Users" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Guys__UserId__32E0915F" Association="IgudDBModel.FK__Guys__UserId__32E0915F">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Guy" EntitySet="Guys" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Guys__YeshivaId__33D4B598" Association="IgudDBModel.FK__Guys__YeshivaId__33D4B598">
+      <End Role="School" EntitySet="Schools" />
+      <End Role="Guy" EntitySet="Guys" />
+    </AssociationSet>
+    <AssociationSet Name="FK__SignStudy__GuyId__412EB0B6" Association="IgudDBModel.FK__SignStudy__GuyId__412EB0B6">
+      <End Role="Guy" EntitySet="Guys" />
+      <End Role="SignStudyHour" EntitySet="SignStudyHours" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SignActivities_ToTable" Association="IgudDBModel.FK_SignActivities_ToTable">
+      <End Role="Guy" EntitySet="Guys" />
+      <End Role="SignActivity" EntitySet="SignActivities" />
+    </AssociationSet>
+    <AssociationSet Name="FK_sector_ToTable" Association="IgudDBModel.FK_sector_ToTable">
+      <End Role="User" EntitySet="Users" />
+      <End Role="sector" EntitySet="sectors" />
+    </AssociationSet>
+    <AssociationSet Name="FK__SignStudy__Study__403A8C7D" Association="IgudDBModel.FK__SignStudy__Study__403A8C7D">
+      <End Role="StudyHour" EntitySet="StudyHours" />
+      <End Role="SignStudyHour" EntitySet="SignStudyHours" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Winners_ToTable" Association="IgudDBModel.FK_Winners_ToTable">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Winner" EntitySet="Winners" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Activity">
+    <Key>
+      <PropertyRef Name="ActiveId" />
+    </Key>
+    <Property Name="ActiveId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Describe" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="NumSubscibers" Type="Int32" />
+    <Property Name="ArtistId" Type="Int32" />
+    <Property Name="Prepay" Type="Boolean" Nullable="false" />
+    <Property Name="tittle" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Artist" Relationship="IgudDBModel.FK_Activities_ToTable" FromRole="Activity" ToRole="Artist" />
+    <NavigationProperty Name="SignActivities" Relationship="IgudDBModel.FK_SignActivities_ToTable_1" FromRole="Activity" ToRole="SignActivity" />
+    <NavigationProperty Name="Winners" Relationship="IgudDBModel.FK_Winners_ToTable_1" FromRole="Activity" ToRole="Winner" />
+  </EntityType>
+  <EntityType Name="Artist">
+    <Key>
+      <PropertyRef Name="ArtistId" />
+    </Key>
+    <Property Name="ArtistId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="LastName" Type="String" Nullable="false" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="Kind" Type="String" Nullable="false" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="Phone" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="eMail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Activities" Relationship="IgudDBModel.FK_Activities_ToTable" FromRole="Artist" ToRole="Activity" />
+  </EntityType>
+  <EntityType Name="Community">
+    <Key>
+      <PropertyRef Name="CommunityId" />
+    </Key>
+    <Property Name="CommunityId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CommunityName" Type="String" Nullable="false" MaxLength="35" FixedLength="false" Unicode="true" />
+    <Property Name="City" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Street" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="HouseNumber" Type="Int32" Nullable="false" />
+    <Property Name="RavName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="IsDelete" Type="Boolean" />
+    <Property Name="delitiondate" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Users" Relationship="IgudDBModel.FK__Users__Community__47DBAE45" FromRole="Community" ToRole="User" />
+  </EntityType>
+  <EntityType Name="Guy">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="YeshivaId" Type="Int32" Nullable="false" />
+    <Property Name="Lesson" Type="String" Nullable="false" MaxLength="15" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="User" Relationship="IgudDBModel.FK__Guys__UserId__32E0915F" FromRole="Guy" ToRole="User" />
+    <NavigationProperty Name="School" Relationship="IgudDBModel.FK__Guys__YeshivaId__33D4B598" FromRole="Guy" ToRole="School" />
+    <NavigationProperty Name="SignStudyHours" Relationship="IgudDBModel.FK__SignStudy__GuyId__412EB0B6" FromRole="Guy" ToRole="SignStudyHour" />
+    <NavigationProperty Name="SignActivities" Relationship="IgudDBModel.FK_SignActivities_ToTable" FromRole="Guy" ToRole="SignActivity" />
+  </EntityType>
+  <EntityType Name="School">
+    <Key>
+      <PropertyRef Name="YeshivaId" />
+    </Key>
+    <Property Name="YeshivaId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="IsBig" Type="Boolean" Nullable="false" />
+    <Property Name="IsDelete" Type="Boolean" />
+    <Property Name="DeletionDate" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Guys" Relationship="IgudDBModel.FK__Guys__YeshivaId__33D4B598" FromRole="School" ToRole="Guy" />
+  </EntityType>
+  <EntityType Name="sector">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="kind" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UserId" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="User" Relationship="IgudDBModel.FK_sector_ToTable" FromRole="sector" ToRole="User" />
+  </EntityType>
+  <EntityType Name="SignActivity">
+    <Key>
+      <PropertyRef Name="SignActivityID" />
+    </Key>
+    <Property Name="GuyId" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="ActivyId" Type="Int32" Nullable="false" />
+    <Property Name="SignActivityID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Activity" Relationship="IgudDBModel.FK_SignActivities_ToTable_1" FromRole="SignActivity" ToRole="Activity" />
+    <NavigationProperty Name="Guy" Relationship="IgudDBModel.FK_SignActivities_ToTable" FromRole="SignActivity" ToRole="Guy" />
+  </EntityType>
+  <EntityType Name="SignStudyHour">
+    <Key>
+      <PropertyRef Name="StudyHoursId" />
+    </Key>
+    <Property Name="StudyHoursId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="GuyId" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="LongStudy" Type="Int32" Nullable="false" />
+    <Property Name="StudyId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Guy" Relationship="IgudDBModel.FK__SignStudy__GuyId__412EB0B6" FromRole="SignStudyHour" ToRole="Guy" />
+    <NavigationProperty Name="StudyHour" Relationship="IgudDBModel.FK__SignStudy__Study__403A8C7D" FromRole="SignStudyHour" ToRole="StudyHour" />
+  </EntityType>
+  <EntityType Name="StudyHour">
+    <Key>
+      <PropertyRef Name="StudyId" />
+    </Key>
+    <Property Name="StudyId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DateStart" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="DateEnd" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="TimeStart" Type="Time" Precision="7" />
+    <Property Name="TimeEnd" Type="Time" Precision="7" />
+    <Property Name="tittle" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="SignStudyHours" Relationship="IgudDBModel.FK__SignStudy__Study__403A8C7D" FromRole="StudyHour" ToRole="SignStudyHour" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="LastName" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="CommunityId" Type="Int32" Nullable="false" />
+    <Property Name="UserType" Type="Int32" Nullable="false" />
+    <Property Name="IsDeleted" Type="Boolean" Nullable="false" />
+    <Property Name="DeleletionDate" Type="DateTime" Precision="0" />
+    <Property Name="BirthDate" Type="DateTime" Precision="0" />
+    <Property Name="Street" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="HouseNumber" Type="Int32" Nullable="false" />
+    <Property Name="Phone" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="Sector" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Community" Relationship="IgudDBModel.FK__Users__Community__47DBAE45" FromRole="User" ToRole="Community" />
+    <NavigationProperty Name="Guy" Relationship="IgudDBModel.FK__Guys__UserId__32E0915F" FromRole="User" ToRole="Guy" />
+    <NavigationProperty Name="sector1" Relationship="IgudDBModel.FK_sector_ToTable" FromRole="User" ToRole="sector" />
+    <NavigationProperty Name="Winners" Relationship="IgudDBModel.FK_Winners_ToTable" FromRole="User" ToRole="Winner" />
+  </EntityType>
+  <EntityType Name="Winner">
+    <Key>
+      <PropertyRef Name="IdWin" />
+    </Key>
+    <Property Name="IdWin" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="WinnerId" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="DateWin" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="ActivityId" Type="Int32" Nullable="false" />
+    <Property Name="describe" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Activity" Relationship="IgudDBModel.FK_Winners_ToTable_1" FromRole="Winner" ToRole="Activity" />
+    <NavigationProperty Name="User" Relationship="IgudDBModel.FK_Winners_ToTable" FromRole="Winner" ToRole="User" />
+  </EntityType>
+  <Association Name="FK_Activities_ToTable">
+    <End Type="IgudDBModel.Artist" Role="Artist" Multiplicity="0..1" />
+    <End Type="IgudDBModel.Activity" Role="Activity" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Artist">
+        <PropertyRef Name="ArtistId" />
+      </Principal>
+      <Dependent Role="Activity">
+        <PropertyRef Name="ArtistId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SignActivities_ToTable_1">
+    <End Type="IgudDBModel.Activity" Role="Activity" Multiplicity="1" />
+    <End Type="IgudDBModel.SignActivity" Role="SignActivity" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Activity">
+        <PropertyRef Name="ActiveId" />
+      </Principal>
+      <Dependent Role="SignActivity">
+        <PropertyRef Name="ActivyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Winners_ToTable_1">
+    <End Type="IgudDBModel.Activity" Role="Activity" Multiplicity="1" />
+    <End Type="IgudDBModel.Winner" Role="Winner" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Activity">
+        <PropertyRef Name="ActiveId" />
+      </Principal>
+      <Dependent Role="Winner">
+        <PropertyRef Name="ActivityId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Users__Community__47DBAE45">
+    <End Type="IgudDBModel.Community" Role="Community" Multiplicity="1" />
+    <End Type="IgudDBModel.User" Role="User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Community">
+        <PropertyRef Name="CommunityId" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="CommunityId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Guys__UserId__32E0915F">
+    <End Type="IgudDBModel.User" Role="User" Multiplicity="1" />
+    <End Type="IgudDBModel.Guy" Role="Guy" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Guy">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Guys__YeshivaId__33D4B598">
+    <End Type="IgudDBModel.School" Role="School" Multiplicity="1" />
+    <End Type="IgudDBModel.Guy" Role="Guy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="School">
+        <PropertyRef Name="YeshivaId" />
+      </Principal>
+      <Dependent Role="Guy">
+        <PropertyRef Name="YeshivaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__SignStudy__GuyId__412EB0B6">
+    <End Type="IgudDBModel.Guy" Role="Guy" Multiplicity="1" />
+    <End Type="IgudDBModel.SignStudyHour" Role="SignStudyHour" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Guy">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="SignStudyHour">
+        <PropertyRef Name="GuyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SignActivities_ToTable">
+    <End Type="IgudDBModel.Guy" Role="Guy" Multiplicity="1" />
+    <End Type="IgudDBModel.SignActivity" Role="SignActivity" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Guy">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="SignActivity">
+        <PropertyRef Name="GuyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_sector_ToTable">
+    <End Type="IgudDBModel.User" Role="User" Multiplicity="1" />
+    <End Type="IgudDBModel.sector" Role="sector" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="sector">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__SignStudy__Study__403A8C7D">
+    <End Type="IgudDBModel.StudyHour" Role="StudyHour" Multiplicity="1" />
+    <End Type="IgudDBModel.SignStudyHour" Role="SignStudyHour" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="StudyHour">
+        <PropertyRef Name="StudyId" />
+      </Principal>
+      <Dependent Role="SignStudyHour">
+        <PropertyRef Name="StudyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Winners_ToTable">
+    <End Type="IgudDBModel.User" Role="User" Multiplicity="1" />
+    <End Type="IgudDBModel.Winner" Role="Winner" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Winner">
+        <PropertyRef Name="WinnerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

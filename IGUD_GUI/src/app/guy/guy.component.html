@@ -1,0 +1,54 @@
+<div class="mini-navbar">
+<button mat-flat-button  (click)="add()">הוספה</button>
+<button mat-flat-button (click)="guyService.getGuys()">הכל</button>
+<button mat-flat-button  (click)="BySchool()">בחור מישיבה מסוימת</button>
+<button mat-flat-button  (click)="guyService.getBigSchool()">בחורים מישיבה גדולה</button>
+<button mat-flat-button  (click)="guyService.getSmallSchool()">בחורים מישיבה קטנה</button>
+<button mat-flat-button  (click)="guyService.getByCommunity()">בחורים לפי קהילות</button>
+<button mat-flat-button  (click)="openCommunities()"> בחורים לפי קהילה מסוימת</button>
+
+<button mat-flat-button  (click)="ShowStudyHours()">הצג מס' שעות לימוד לבחור</button>
+
+<!-- <button mat-flat-button  (click)="guyService.putGuy()">עדכון</button>    -->
+<!-- <button mat-flat-button  (click)="guyService.getGuys()">רשימת הישיבות</button>
+<button mat-flat-button  (click)="guyService.getGuyById(1)">קבלת ישיבה</button>
+<button mat-flat-button  (click)="guyService.deleteGuyById(3)">מחיקת ישיבה</button>  -->
+</div>
+<div class="design-div"></div>
+<div class="table-content">
+<table id="customers">
+  <tr>
+   <th>תעודת זהות</th>
+    <th>שם פרטי</th>
+    <th>שם משפחה</th>
+    <th>מייל</th>
+    <th>קוד קהילה</th>
+    <th>שם ישיבה </th>
+    <th>תאריך לידה</th>
+    <th>סוג ישיבה</th>
+    <th>מחיקה</th>
+    <th>עדכון</th>
+  </tr>
+  <tr *ngFor="let guy of guyService.Guys">
+     <td #UserId>{{guy.UserId }}</td>
+     <td>{{guy.FirstName }}</td>
+     <td>{{guy.LastName }}</td>
+     <td>{{guy.Email }}</td>
+     <td>{{guy.CommunityName}}</td>
+     <td >{{guy.YeshivaName}}</td>
+     <td >{{guy.BirthDate |date:'shortDate'}}</td>
+     <td *ngIf="guy.IsBig==false">ישיבה קטנה</td>
+     <td *ngIf="guy.IsBig==true">ישיבה גדולה</td>
+     <!-- <td>{{guy.BirthDate}}</td> -->
+     <!-- מחיקה עם דיאלוג -->
+     <td (click)="openDialog(guy.UserId)"><img class="Image"  alt="Angular_garbage" src="../../assets/images/trash.png"></td> 
+    <!-- מחיקה רגילה -->
+     <!-- <td (click)="guyService.deleteGuyById(guy.UserId )"><img class="Image"  alt="Angular_garbage" src="../../assets/images/trash.png"></td>  -->
+     <td (click)="put(guy.UserId)">
+       <img class="Image_Edit" src="../../assets/images/edit.png">
+    </td>
+    <!-- <td><img class="Image"  alt="Angular_garbage" src="../../assets/images/trash.png"></td> -->
+  </tr>
+</table>
+</div>
+

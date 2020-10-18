@@ -1,0 +1,27 @@
+<div class="design-div"></div>
+<div class="table-content">
+<table id="customers">
+  <tr>
+    <th>כותרת:</th>
+    <th>קוד אירוע</th>
+    <th>תאריך</th>
+    <th>תאור</th>
+    <th>מספר משתתפים </th>
+    <th>אומן משתתף</th>
+    <th>תשלום מראש?</th>
+  </tr>
+
+  <tr *ngFor="let act of activityService.Activities">
+    <td>{{act.tittle}}</td>
+     <td #UserId>{{act.ActiveId }}</td> 
+     <td>{{act.Date |date:'shortDate' }}</td>
+     <td>{{act.Describe }}</td>
+     <td>{{act.NumSubscibers }}</td>
+     <td>{{act.ArtistId }}</td>
+     <td >{{act.Prepay}}</td>
+     <td (click)="activityService.deleteActivityById(act.ActiveId)"><img class="Image"  alt="Angular_garbage" src="../../assets/images/trash.png"></td> 
+     <!-- <td (click)="put(act.ActiveId)" ><img class="Image_Edit" src="../../assets/images/edit.png"></td>  -->
+  </tr>
+</table>
+</div>
+<button mat-stroked-button color="blue" (click)="add()">הוספה</button>

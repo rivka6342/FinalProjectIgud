@@ -1,0 +1,88 @@
+<div class="form-field" dir:rtl>
+    <mat-form-field appearance="fill">
+        <mat-label >מספר זהות:</mat-label>
+        <input matInput #tz>
+      </mat-form-field> 
+      <br>
+      <mat-form-field appearance="fill">
+        <mat-label >שם:</mat-label>
+        <input matInput #Firstname>
+      </mat-form-field> 
+      <br>
+      <mat-form-field appearance="fill">
+        <mat-label >משפחה:</mat-label>
+        <input matInput #LastName>
+      </mat-form-field> 
+      <br>
+      <mat-form-field appearance="fill">
+        <mat-label >תאריך לידה:</mat-label>
+        <input matInput #BirthDate type="date">
+      </mat-form-field> 
+      <br>
+      <mat-form-field appearance="fill">
+        <mat-label >טלפון:</mat-label>
+        <input matInput #Phone>
+      </mat-form-field> 
+      <br>
+      <mat-form-field appearance="fill">
+        <mat-label >רחוב:</mat-label>
+        <input matInput #Street>
+      </mat-form-field> 
+      <br>
+      <mat-form-field appearance="fill">
+        <mat-label >מספר בית:</mat-label>
+        <input matInput #HouseNumber type="number">
+      </mat-form-field> 
+      <br>
+      <mat-form-field appearance="fill">
+        <mat-label >מייל:</mat-label>
+        <input matInput #email>
+      </mat-form-field> 
+      <br>
+      <mat-form-field>
+        <mat-label >קהילה:</mat-label>      
+        <mat-select [formControl]="CommunityControl" >
+          <mat-option (blur)="addCom()">הוספת קהילה חדשה</mat-option>
+          <mat-option *ngFor="let community of CommunityService.Communities" [value]="community.CommunityId" >
+            {{community.CommunityName}}
+            {{community.RavName}}
+            {{community.Street}}
+            {{community.HouseNumber}}
+          </mat-option>
+        </mat-select>     
+        </mat-form-field> 
+        <br>    
+      <mat-form-field>
+        <mat-label >ישיבה:</mat-label>      
+        <mat-select [formControl]="SchoolControl" >
+          <mat-option (blur)="addSch()">הוספת ישיבה חדשה</mat-option>
+          <mat-option *ngFor="let school of SchoolService.Schools" [value]="school" (blur)="IsBig(school)">
+            {{school.Name}}
+          </mat-option>
+        </mat-select>     
+        </mat-form-field>  
+        <br>
+        <mat-form-field>
+          <mat-label>שיעור:</mat-label>
+          <!-- <select matNativeControl [disabled]="disableSelect.value"> -->
+        <select [formControl]="GradesyControl" [disabled]="disableSelect.value" matNativeControl>
+            <option value="" selected></option>
+            <option value="א">א</option>
+            <option value="ב" >ב</option>
+            <option value="ג">ג</option>
+            <option *ngIf="disableSelect" value="קיבוץ" >קיבוץ</option>
+          </select>
+        </mat-form-field>
+        
+        <br>  
+     <mat-form-field>
+        <mat-label>מגזר:</mat-label>
+        <mat-select [formControl]="SectorControl">
+          <mat-option *ngFor="let sector of Sectors" [value]="sector">{{sector}}</mat-option>       
+        </mat-select>
+      </mat-form-field> 
+     <br>
+
+      <button mat-stroked-button color="blue" (click)="guyService.postGuy(tz.value,Firstname.value,LastName.value,BirthDate.value,Phone.value,Street.value,HouseNumber.value,email.value,CommunityControl.value,SchoolControl.value.YeshivaId,SchoolControl.value.Name,SchoolControl.value.IsBig,GradesyControl.value,SectorControl.value)">שמירה</button>
+       <button mat-stroked-button color="blue" (click)="onClick()">יציאה</button>      
+</div>                                             

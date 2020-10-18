@@ -1,0 +1,19 @@
+<div>
+    <mat-form-field appearance="fill">
+        <mat-label >מספר זהות:</mat-label>
+        <input matInput #tz>
+      </mat-form-field> 
+      <br>
+       <mat-form-field>
+        <mat-label >ארוע:</mat-label>      
+        <mat-select [formControl]="ActivityControl" >
+          <mat-option *ngFor="let activity of activityService.Activities" [value]="activity.ActiveId" >
+            {{activity.tittle}}
+          </mat-option>
+        </mat-select>     
+        </mat-form-field>
+        <br>  
+</div> 
+
+<button mat-stroked-button color="blue" (click)="signActivityService.postActivity(tz.value,ActivityControl.value)">שמירה</button>
+

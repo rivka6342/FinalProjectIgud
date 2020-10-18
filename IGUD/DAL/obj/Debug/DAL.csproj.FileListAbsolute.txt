@@ -1,0 +1,112 @@
+Y:\תשפ\3\אילה קליין\project\new\IGUD\DAL\bin\Debug\IgudDB.mdf
+Y:\תשפ\3\אילה קליין\project\new\IGUD\DAL\bin\Debug\IgudDB_log.ldf
+Y:\תשפ\3\אילה קליין\project\new\IGUD\DAL\bin\Debug\EntityFramework.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\DAL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\DAL\bin\Debug\EntityFramework.xml
+Y:\תשפ\3\אילה קליין\project\new\IGUD\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\תשפ\3\אילה קליין\project\new\IGUD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\אילה קליין\project\new\IGUD\DAL\obj\Debug\DAL.csproj.CopyComplete
+Y:\תשפ\3\אילה קליין\project\new\IGUD\DAL\obj\Debug\DAL.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\DAL\obj\Debug\DAL.pdb
+Y:\תשפ\3\אילה קליין\project\new\IGUD\DAL\bin\Debug\DAL.dll.config
+Y:\תשפ\3\אילה קליין\project\new\IGUD\DAL\bin\Debug\DAL.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\DAL\bin\Debug\DAL.pdb
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\DAL\bin\Debug\DAL.dll.config
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\DAL\bin\Debug\DAL.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\DAL\bin\Debug\DAL.pdb
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\DAL\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\DAL\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\DAL\obj\Debug\DAL.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\DAL\obj\Debug\DAL.pdb
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\DAL\bin\Debug\IgudDBEntities.mdf
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\DAL\bin\Debug\IgudDBEntities_log.ldf
+C:\Users\USER\Desktop\project\project\new\IGUD\DAL\bin\Debug\IgudDBEntities.mdf
+C:\Users\USER\Desktop\project\project\new\IGUD\DAL\bin\Debug\IgudDBEntities_log.ldf
+C:\Users\USER\Desktop\project\project\new\IGUD\DAL\bin\Debug\DAL.dll.config
+C:\Users\USER\Desktop\project\project\new\IGUD\DAL\bin\Debug\DAL.dll
+C:\Users\USER\Desktop\project\project\new\IGUD\DAL\bin\Debug\DAL.pdb
+C:\Users\USER\Desktop\project\project\new\IGUD\DAL\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\project\project\new\IGUD\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\project\project\new\IGUD\DAL\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\project\project\new\IGUD\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\project\project\new\IGUD\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\project\project\new\IGUD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\project\project\new\IGUD\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\USER\Desktop\project\project\new\IGUD\DAL\obj\Debug\DAL.dll
+C:\Users\USER\Desktop\project\project\new\IGUD\DAL\obj\Debug\DAL.pdb
+C:\project\project\new\IGUD\DAL\bin\Debug\IgudDBEntities.mdf
+C:\project\project\new\IGUD\DAL\bin\Debug\IgudDBEntities_log.ldf
+C:\project\project\new\IGUD\DAL\bin\Debug\DAL.dll.config
+C:\project\project\new\IGUD\DAL\bin\Debug\DAL.dll
+C:\project\project\new\IGUD\DAL\bin\Debug\DAL.pdb
+C:\project\project\new\IGUD\DAL\bin\Debug\EntityFramework.dll
+C:\project\project\new\IGUD\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\project\project\new\IGUD\DAL\bin\Debug\EntityFramework.xml
+C:\project\project\new\IGUD\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\project\project\new\IGUD\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\project\project\new\IGUD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\project\project\new\IGUD\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\project\project\new\IGUD\DAL\obj\Debug\DAL.dll
+C:\project\project\new\IGUD\DAL\obj\Debug\DAL.pdb
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DAL\bin\Debug\DAL.dll.config
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DAL\bin\Debug\DAL.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DAL\bin\Debug\DAL.pdb
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DAL\bin\Debug\EntityFramework.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DAL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DAL\bin\Debug\EntityFramework.xml
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DAL\obj\Debug\DAL.csproj.CopyComplete
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DAL\obj\Debug\DAL.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\DAL\obj\Debug\DAL.pdb
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DAL\bin\Debug\DAL.dll.config
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DAL\bin\Debug\DAL.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DAL\bin\Debug\DAL.pdb
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DAL\bin\Debug\EntityFramework.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DAL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DAL\bin\Debug\EntityFramework.xml
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DAL\obj\Debug\DAL.csproj.CopyComplete
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DAL\obj\Debug\DAL.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\DAL\obj\Debug\DAL.pdb
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DAL\obj\Debug\DAL.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DAL\obj\Debug\DAL.pdb
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DAL\bin\Debug\DAL.dll.config
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DAL\bin\Debug\DAL.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DAL\bin\Debug\DAL.pdb
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DAL\bin\Debug\EntityFramework.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DAL\bin\Debug\EntityFramework.xml
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DAL\bin\Debug\DAL.dll.config
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DAL\bin\Debug\DAL.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DAL\bin\Debug\DAL.pdb
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DAL\bin\Debug\EntityFramework.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DAL\bin\Debug\EntityFramework.xml
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DAL\obj\Debug\DAL.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DAL\obj\Debug\DAL.pdb
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DAL\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DAL\bin\Debug\ExcelDataReader.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DAL\bin\Debug\System.Web.Http.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DAL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DAL\bin\Debug\ExcelDataReader.pdb
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DAL\bin\Debug\ExcelDataReader.xml
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DAL\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\DAL\bin\Debug\ExcelDataReader.DataSet.xml

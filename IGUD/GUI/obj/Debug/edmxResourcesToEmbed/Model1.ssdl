@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EmployeeModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CUSTOMERS_TBL">
+    <Key>
+      <PropertyRef Name="CUSTID" />
+    </Key>
+    <Property Name="CUSTID" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="CUSTNAME" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="custaddress" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="CUSTCITY" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="CUSTPHONE" Type="char" MaxLength="10" />
+    <Property Name="CUSTFAX" Type="char" MaxLength="10" />
+    <Property Name="EMPID" Type="nvarchar" MaxLength="9" />
+  </EntityType>
+  <EntityType Name="EMPLOYEE_PAY_TBL">
+    <Key>
+      <PropertyRef Name="payid" />
+    </Key>
+    <Property Name="payid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EMPID" Type="nvarchar" MaxLength="9" Nullable="false" />
+    <Property Name="payrate" Type="decimal" Precision="6" Scale="2" />
+    <Property Name="datelastraise" Type="datetime" />
+    <Property Name="SALARY" Type="decimal" Precision="8" Scale="2" />
+    <Property Name="bonus" Type="decimal" Precision="6" Scale="2" />
+  </EntityType>
+  <EntityType Name="EMPLOYEE_TBL">
+    <Key>
+      <PropertyRef Name="EMPID" />
+    </Key>
+    <Property Name="EMPID" Type="nvarchar" MaxLength="9" Nullable="false" />
+    <Property Name="lastNAME" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="firstname" Type="varchar" MaxLength="15" />
+    <Property Name="ADDRess" Type="nvarchar" MaxLength="50" />
+    <Property Name="CITY" Type="varchar" MaxLength="15" />
+    <Property Name="STate" Type="varchar" MaxLength="10" />
+    <Property Name="PHONE" Type="char" MaxLength="10" />
+    <Property Name="datehire" Type="datetime" />
+    <Property Name="managerid" Type="varchar" MaxLength="50" />
+    <Property Name="position" Type="int" />
+    <Property Name="birthdate" Type="date" />
+  </EntityType>
+  <EntityType Name="ORDERS_TBL">
+    <Key>
+      <PropertyRef Name="ORDNUM" />
+    </Key>
+    <Property Name="ORDNUM" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CUSTID" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="prodid" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="QTY" Type="int" />
+    <Property Name="ORDDATE" Type="datetime" />
+  </EntityType>
+  <EntityType Name="products_tbl">
+    <Key>
+      <PropertyRef Name="prodid" />
+    </Key>
+    <Property Name="prodid" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="proddesc" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="cost" Type="decimal" Precision="6" Scale="2" Nullable="false" />
+    <Property Name="cost_buy" Type="money" />
+    <Property Name="qty_in_stock" Type="int" />
+  </EntityType>
+  <Association Name="FK_CUSTOMERS_TBL_EMPLOYEE_TBL">
+    <End Role="EMPLOYEE_TBL" Type="Self.EMPLOYEE_TBL" Multiplicity="0..1" />
+    <End Role="CUSTOMERS_TBL" Type="Self.CUSTOMERS_TBL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EMPLOYEE_TBL">
+        <PropertyRef Name="EMPID" />
+      </Principal>
+      <Dependent Role="CUSTOMERS_TBL">
+        <PropertyRef Name="EMPID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EMPLOYEE_PAY_TBL_EMPLOYEE_TBL">
+    <End Role="EMPLOYEE_TBL" Type="Self.EMPLOYEE_TBL" Multiplicity="1" />
+    <End Role="EMPLOYEE_PAY_TBL" Type="Self.EMPLOYEE_PAY_TBL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EMPLOYEE_TBL">
+        <PropertyRef Name="EMPID" />
+      </Principal>
+      <Dependent Role="EMPLOYEE_PAY_TBL">
+        <PropertyRef Name="EMPID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ORDERS_TBL_CUSTOMERS_TBL">
+    <End Role="CUSTOMERS_TBL" Type="Self.CUSTOMERS_TBL" Multiplicity="1" />
+    <End Role="ORDERS_TBL" Type="Self.ORDERS_TBL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CUSTOMERS_TBL">
+        <PropertyRef Name="CUSTID" />
+      </Principal>
+      <Dependent Role="ORDERS_TBL">
+        <PropertyRef Name="CUSTID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ORDERS_TBL_products_tbl">
+    <End Role="products_tbl" Type="Self.products_tbl" Multiplicity="1" />
+    <End Role="ORDERS_TBL" Type="Self.ORDERS_TBL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="products_tbl">
+        <PropertyRef Name="prodid" />
+      </Principal>
+      <Dependent Role="ORDERS_TBL">
+        <PropertyRef Name="prodid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EmployeeModelStoreContainer">
+    <EntitySet Name="CUSTOMERS_TBL" EntityType="Self.CUSTOMERS_TBL" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EMPLOYEE_PAY_TBL" EntityType="Self.EMPLOYEE_PAY_TBL" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EMPLOYEE_TBL" EntityType="Self.EMPLOYEE_TBL" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ORDERS_TBL" EntityType="Self.ORDERS_TBL" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="products_tbl" EntityType="Self.products_tbl" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_CUSTOMERS_TBL_EMPLOYEE_TBL" Association="Self.FK_CUSTOMERS_TBL_EMPLOYEE_TBL">
+      <End Role="EMPLOYEE_TBL" EntitySet="EMPLOYEE_TBL" />
+      <End Role="CUSTOMERS_TBL" EntitySet="CUSTOMERS_TBL" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EMPLOYEE_PAY_TBL_EMPLOYEE_TBL" Association="Self.FK_EMPLOYEE_PAY_TBL_EMPLOYEE_TBL">
+      <End Role="EMPLOYEE_TBL" EntitySet="EMPLOYEE_TBL" />
+      <End Role="EMPLOYEE_PAY_TBL" EntitySet="EMPLOYEE_PAY_TBL" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ORDERS_TBL_CUSTOMERS_TBL" Association="Self.FK_ORDERS_TBL_CUSTOMERS_TBL">
+      <End Role="CUSTOMERS_TBL" EntitySet="CUSTOMERS_TBL" />
+      <End Role="ORDERS_TBL" EntitySet="ORDERS_TBL" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ORDERS_TBL_products_tbl" Association="Self.FK_ORDERS_TBL_products_tbl">
+      <End Role="products_tbl" EntitySet="products_tbl" />
+      <End Role="ORDERS_TBL" EntitySet="ORDERS_TBL" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

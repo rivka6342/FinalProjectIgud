@@ -1,0 +1,28 @@
+<div class="design-div"></div>
+<div class="table-content">
+<table id="customers">
+  <tr>
+   <th>תעודת זהות</th>
+    <th>שם פרטי</th>
+    <th>שם משפחה</th>
+    <th>מייל</th>
+    <th>מגזר:</th>
+    <th>מחיקה</th>
+    <th>עדכון פרטים</th>
+  </tr>
+  <tr *ngFor="let sector of sectorService.Sectors">
+     <td #UserId>{{sector.UserId }}</td>
+     <td>{{sector.FirstName }}</td>
+     <td>{{sector.LastName }}</td>
+     <td>{{sector.Email }}</td>
+     <td>{{sector.kind}}</td>
+     <!-- מחיקה עם דיאלוג -->
+     <td (click)="openDialog(sector.UserId)"><img class="Image"  alt="Angular_garbage" src="../../assets/images/trash.png"></td> 
+    <!-- מחיקה רגילה -->
+     <!-- <td (click)="sectorService.deleteSectorById(sector.UserId )"><img class="Image"  alt="Angular_garbage" src="../../assets/images/trash.png"></td>  -->
+     <td (click)="put(sector.UserId)"><img class="Image_Edit" src="../../assets/images/edit.png"></td>
+  </tr>
+</table>
+</div>
+
+<button mat-stroked-button color="blue" (click)="add()">הוספה</button> 

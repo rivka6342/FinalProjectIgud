@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EmployeeModelStoreContainer" CdmEntityContainer="EmployeeEntities">
+    <EntitySetMapping Name="CUSTOMERS_TBL">
+      <EntityTypeMapping TypeName="EmployeeModel.CUSTOMERS_TBL">
+        <MappingFragment StoreEntitySet="CUSTOMERS_TBL">
+          <ScalarProperty Name="CUSTID" ColumnName="CUSTID" />
+          <ScalarProperty Name="CUSTNAME" ColumnName="CUSTNAME" />
+          <ScalarProperty Name="custaddress" ColumnName="custaddress" />
+          <ScalarProperty Name="CUSTCITY" ColumnName="CUSTCITY" />
+          <ScalarProperty Name="CUSTPHONE" ColumnName="CUSTPHONE" />
+          <ScalarProperty Name="CUSTFAX" ColumnName="CUSTFAX" />
+          <ScalarProperty Name="EMPID" ColumnName="EMPID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EMPLOYEE_PAY_TBL">
+      <EntityTypeMapping TypeName="EmployeeModel.EMPLOYEE_PAY_TBL">
+        <MappingFragment StoreEntitySet="EMPLOYEE_PAY_TBL">
+          <ScalarProperty Name="payid" ColumnName="payid" />
+          <ScalarProperty Name="EMPID" ColumnName="EMPID" />
+          <ScalarProperty Name="payrate" ColumnName="payrate" />
+          <ScalarProperty Name="datelastraise" ColumnName="datelastraise" />
+          <ScalarProperty Name="SALARY" ColumnName="SALARY" />
+          <ScalarProperty Name="bonus" ColumnName="bonus" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EMPLOYEE_TBL">
+      <EntityTypeMapping TypeName="EmployeeModel.EMPLOYEE_TBL">
+        <MappingFragment StoreEntitySet="EMPLOYEE_TBL">
+          <ScalarProperty Name="EMPID" ColumnName="EMPID" />
+          <ScalarProperty Name="lastNAME" ColumnName="lastNAME" />
+          <ScalarProperty Name="firstname" ColumnName="firstname" />
+          <ScalarProperty Name="ADDRess" ColumnName="ADDRess" />
+          <ScalarProperty Name="CITY" ColumnName="CITY" />
+          <ScalarProperty Name="STate" ColumnName="STate" />
+          <ScalarProperty Name="PHONE" ColumnName="PHONE" />
+          <ScalarProperty Name="datehire" ColumnName="datehire" />
+          <ScalarProperty Name="managerid" ColumnName="managerid" />
+          <ScalarProperty Name="position" ColumnName="position" />
+          <ScalarProperty Name="birthdate" ColumnName="birthdate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ORDERS_TBL">
+      <EntityTypeMapping TypeName="EmployeeModel.ORDERS_TBL">
+        <MappingFragment StoreEntitySet="ORDERS_TBL">
+          <ScalarProperty Name="ORDNUM" ColumnName="ORDNUM" />
+          <ScalarProperty Name="CUSTID" ColumnName="CUSTID" />
+          <ScalarProperty Name="prodid" ColumnName="prodid" />
+          <ScalarProperty Name="QTY" ColumnName="QTY" />
+          <ScalarProperty Name="ORDDATE" ColumnName="ORDDATE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="products_tbl">
+      <EntityTypeMapping TypeName="EmployeeModel.products_tbl">
+        <MappingFragment StoreEntitySet="products_tbl">
+          <ScalarProperty Name="prodid" ColumnName="prodid" />
+          <ScalarProperty Name="proddesc" ColumnName="proddesc" />
+          <ScalarProperty Name="cost" ColumnName="cost" />
+          <ScalarProperty Name="cost_buy" ColumnName="cost_buy" />
+          <ScalarProperty Name="qty_in_stock" ColumnName="qty_in_stock" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

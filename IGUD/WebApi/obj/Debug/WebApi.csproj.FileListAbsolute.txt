@@ -1,0 +1,464 @@
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\csc.exe
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\csc.exe.config
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\csc.rsp
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\csi.exe
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\csi.rsp
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\System.AppContext.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\System.Collections.Immutable.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\System.IO.FileSystem.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\vbc.exe
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\vbc.exe.config
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\vbc.rsp
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\VBCSCompiler.exe
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\roslyn\VBCSCompiler.exe.config
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\IgudDB.mdf
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\IgudDB_log.ldf
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\WebApi.dll.config
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\WebApi.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\WebApi.pdb
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\BL.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\DTO.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\EntityFramework.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\EntityFramework.SqlServer.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\System.Web.Cors.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\System.Web.Http.Cors.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\DAL.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\BL.pdb
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\DTO.pdb
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\EntityFramework.xml
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\EntityFramework.SqlServer.xml
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\System.Web.Http.Cors.xml
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\DAL.pdb
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\bin\DAL.dll.config
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\obj\Debug\WebApi.dll
+Y:\תשפ\3\אילה קליין\project\new\IGUD\WebApi\obj\Debug\WebApi.pdb
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\csc.exe.config
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\csi.exe
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\csi.rsp
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\csc.rsp
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\vbc.rsp
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\IgudDB.mdf
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\IgudDB_log.ldf
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\WebApi.dll.config
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\WebApi.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\WebApi.pdb
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\BL.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\DTO.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\EntityFramework.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\System.Web.Cors.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\DAL.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\BL.pdb
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\DTO.pdb
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\EntityFramework.xml
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\DAL.pdb
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\DAL.dll.config
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\obj\Debug\WebApi.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\obj\Debug\WebApi.pdb
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\System.Web.WebPages.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\WebGrease.dll
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\System.Web.Optimization.xml
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\System.Web.WebPages.xml
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Desktop\עיוני\פרויקט\project\new\IGUD\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\project\project\new\IGUD\WebApi\bin\roslyn\csc.exe
+C:\project\project\new\IGUD\WebApi\bin\roslyn\csc.exe.config
+C:\project\project\new\IGUD\WebApi\bin\roslyn\csc.rsp
+C:\project\project\new\IGUD\WebApi\bin\roslyn\csi.exe
+C:\project\project\new\IGUD\WebApi\bin\roslyn\csi.rsp
+C:\project\project\new\IGUD\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\project\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\project\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\project\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\project\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\project\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\project\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\project\project\new\IGUD\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\project\project\new\IGUD\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\project\project\new\IGUD\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\project\project\new\IGUD\WebApi\bin\roslyn\System.AppContext.dll
+C:\project\project\new\IGUD\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\project\project\new\IGUD\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\project\project\new\IGUD\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\project\project\new\IGUD\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\project\project\new\IGUD\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\project\project\new\IGUD\WebApi\bin\roslyn\vbc.exe
+C:\project\project\new\IGUD\WebApi\bin\roslyn\vbc.exe.config
+C:\project\project\new\IGUD\WebApi\bin\roslyn\vbc.rsp
+C:\project\project\new\IGUD\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\project\project\new\IGUD\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\project\project\new\IGUD\WebApi\bin\WebApi.dll.config
+C:\project\project\new\IGUD\WebApi\bin\WebApi.dll
+C:\project\project\new\IGUD\WebApi\bin\WebApi.pdb
+C:\project\project\new\IGUD\WebApi\bin\Antlr3.Runtime.dll
+C:\project\project\new\IGUD\WebApi\bin\BL.dll
+C:\project\project\new\IGUD\WebApi\bin\DTO.dll
+C:\project\project\new\IGUD\WebApi\bin\EntityFramework.dll
+C:\project\project\new\IGUD\WebApi\bin\EntityFramework.SqlServer.dll
+C:\project\project\new\IGUD\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\project\project\new\IGUD\WebApi\bin\System.Web.Cors.dll
+C:\project\project\new\IGUD\WebApi\bin\System.Web.Helpers.dll
+C:\project\project\new\IGUD\WebApi\bin\System.Web.Http.Cors.dll
+C:\project\project\new\IGUD\WebApi\bin\System.Web.Mvc.dll
+C:\project\project\new\IGUD\WebApi\bin\System.Web.Optimization.dll
+C:\project\project\new\IGUD\WebApi\bin\System.Web.Razor.dll
+C:\project\project\new\IGUD\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\project\project\new\IGUD\WebApi\bin\System.Web.WebPages.dll
+C:\project\project\new\IGUD\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\project\project\new\IGUD\WebApi\bin\WebGrease.dll
+C:\project\project\new\IGUD\WebApi\bin\DAL.dll
+C:\project\project\new\IGUD\WebApi\bin\BL.pdb
+C:\project\project\new\IGUD\WebApi\bin\DTO.pdb
+C:\project\project\new\IGUD\WebApi\bin\Antlr3.Runtime.pdb
+C:\project\project\new\IGUD\WebApi\bin\EntityFramework.xml
+C:\project\project\new\IGUD\WebApi\bin\EntityFramework.SqlServer.xml
+C:\project\project\new\IGUD\WebApi\bin\System.Web.Helpers.xml
+C:\project\project\new\IGUD\WebApi\bin\System.Web.Http.Cors.xml
+C:\project\project\new\IGUD\WebApi\bin\System.Web.Mvc.xml
+C:\project\project\new\IGUD\WebApi\bin\System.Web.Optimization.xml
+C:\project\project\new\IGUD\WebApi\bin\System.Web.Razor.xml
+C:\project\project\new\IGUD\WebApi\bin\System.Web.WebPages.xml
+C:\project\project\new\IGUD\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\project\project\new\IGUD\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\project\project\new\IGUD\WebApi\bin\DAL.pdb
+C:\project\project\new\IGUD\WebApi\bin\DAL.dll.config
+C:\project\project\new\IGUD\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\project\project\new\IGUD\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\project\project\new\IGUD\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\project\project\new\IGUD\WebApi\obj\Debug\WebApi.dll
+C:\project\project\new\IGUD\WebApi\obj\Debug\WebApi.pdb
+C:\project\project\new\IGUD\WebApi\bin\BL.dll.config
+C:\project\project\new\IGUD\WebApi\bin\DTO.dll.config
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\csc.exe
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\csc.exe.config
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\csc.rsp
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\csi.exe
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\csi.rsp
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\System.AppContext.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\System.Collections.Immutable.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\System.IO.FileSystem.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\vbc.exe
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\vbc.exe.config
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\vbc.rsp
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\VBCSCompiler.exe
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\roslyn\VBCSCompiler.exe.config
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\WebApi.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\WebApi.pdb
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\Antlr3.Runtime.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\BL.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\DTO.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\EntityFramework.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\EntityFramework.SqlServer.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\Microsoft.Web.Infrastructure.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\System.Web.Cors.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\System.Web.Helpers.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\System.Web.Http.Cors.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\System.Web.Mvc.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\System.Web.Optimization.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\System.Web.Razor.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\System.Web.WebPages.Deployment.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\System.Web.WebPages.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\System.Web.WebPages.Razor.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\WebGrease.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\DAL.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\BL.pdb
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\BL.dll.config
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\DTO.pdb
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\DTO.dll.config
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\Antlr3.Runtime.pdb
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\EntityFramework.xml
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\EntityFramework.SqlServer.xml
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\System.Web.Helpers.xml
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\System.Web.Http.Cors.xml
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\System.Web.Mvc.xml
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\System.Web.Optimization.xml
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\System.Web.Razor.xml
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\System.Web.WebPages.xml
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\System.Web.WebPages.Deployment.xml
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\System.Web.WebPages.Razor.xml
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\DAL.pdb
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\DAL.dll.config
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\obj\Debug\WebApi.dll
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\obj\Debug\WebApi.pdb
+Y:\תשפ\3\אילה קליין\project\project\new\IGUD\WebApi\bin\WebApi.dll.config
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\csc.exe
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\csc.exe.config
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\csc.rsp
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\csi.exe
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\csi.rsp
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\System.AppContext.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\System.Collections.Immutable.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\System.IO.FileSystem.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\vbc.exe
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\vbc.exe.config
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\vbc.rsp
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\VBCSCompiler.exe
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\roslyn\VBCSCompiler.exe.config
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\WebApi.dll.config
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\WebApi.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\WebApi.pdb
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\Antlr3.Runtime.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\BL.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\DTO.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\EntityFramework.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\EntityFramework.SqlServer.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\Microsoft.Web.Infrastructure.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\System.Web.Cors.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\System.Web.Helpers.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\System.Web.Http.Cors.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\System.Web.Mvc.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\System.Web.Optimization.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\System.Web.Razor.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\System.Web.WebPages.Deployment.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\System.Web.WebPages.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\System.Web.WebPages.Razor.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\WebGrease.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\DAL.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\BL.pdb
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\BL.dll.config
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\DTO.pdb
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\DTO.dll.config
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\Antlr3.Runtime.pdb
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\EntityFramework.xml
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\EntityFramework.SqlServer.xml
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\System.Web.Helpers.xml
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\System.Web.Http.Cors.xml
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\System.Web.Mvc.xml
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\System.Web.Optimization.xml
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\System.Web.Razor.xml
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\System.Web.WebPages.xml
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\System.Web.WebPages.Deployment.xml
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\System.Web.WebPages.Razor.xml
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\DAL.pdb
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\bin\DAL.dll.config
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\obj\Debug\WebApi.dll
+Y:\תשפ\3\אילה קליין\project\25-06-project\new\IGUD\WebApi\obj\Debug\WebApi.pdb
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\csc.exe
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\csc.exe.config
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\csc.rsp
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\csi.exe
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\csi.rsp
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\vbc.exe
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\vbc.rsp
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\WebApi.dll.config
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\WebApi.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\WebApi.pdb
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\BL.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\DTO.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\EntityFramework.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\System.Web.Cors.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\System.Web.Helpers.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\System.Web.Mvc.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\System.Web.Optimization.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\System.Web.Razor.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\System.Web.WebPages.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\WebGrease.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\DAL.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\BL.pdb
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\BL.dll.config
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\DTO.pdb
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\DTO.dll.config
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\EntityFramework.xml
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\System.Web.Helpers.xml
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\System.Web.Mvc.xml
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\System.Web.Optimization.xml
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\System.Web.Razor.xml
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\System.Web.WebPages.xml
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\DAL.pdb
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\bin\DAL.dll.config
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\obj\Debug\WebApi.dll
+C:\Users\USER\Documents\ayala\25-06-project\new\IGUD\WebApi\obj\Debug\WebApi.pdb
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\csc.exe
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\csc.exe.config
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\csc.rsp
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\csi.exe
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\csi.rsp
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\vbc.exe
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\vbc.rsp
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\WebApi.dll.config
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\WebApi.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\WebApi.pdb
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\BL.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\DTO.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\EntityFramework.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\System.Web.Cors.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\System.Web.Helpers.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\System.Web.Mvc.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\System.Web.Optimization.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\System.Web.Razor.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\System.Web.WebPages.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\WebGrease.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\DAL.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\BL.pdb
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\BL.dll.config
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\DTO.pdb
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\DTO.dll.config
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\EntityFramework.xml
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\System.Web.Helpers.xml
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\System.Web.Mvc.xml
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\System.Web.Optimization.xml
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\System.Web.Razor.xml
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\System.Web.WebPages.xml
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\DAL.pdb
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\DAL.dll.config
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\obj\Debug\WebApi.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\obj\Debug\WebApi.pdb
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\ExcelDataReader.DataSet.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\ExcelDataReader.dll
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\ExcelDataReader.pdb
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\ExcelDataReader.xml
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\ExcelDataReader.DataSet.pdb
+C:\Users\USER\Documents\ayala\repository\25-06-project\new\IGUD\WebApi\bin\ExcelDataReader.DataSet.xml

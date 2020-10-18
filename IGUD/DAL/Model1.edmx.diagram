@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b634e962a436415ba99fa0f8c94351bc" Name="Diagram1" ZoomLevel="65">
+        <EntityTypeShape EntityType="IgudDBModel.Activity" Width="1.5" PointX="8.25" PointY="15.125" />
+        <EntityTypeShape EntityType="IgudDBModel.Artist" Width="1.5" PointX="6" PointY="15.5" />
+        <EntityTypeShape EntityType="IgudDBModel.Community" Width="1.5" PointX="0.75" PointY="5.25" />
+        <EntityTypeShape EntityType="IgudDBModel.Guy" Width="1.5" PointX="8.25" PointY="5.5" />
+        <EntityTypeShape EntityType="IgudDBModel.School" Width="1.5" PointX="6" PointY="1.5" />
+        <EntityTypeShape EntityType="IgudDBModel.sector" Width="1.5" PointX="5.25" PointY="12.125" />
+        <EntityTypeShape EntityType="IgudDBModel.SignActivity" Width="1.5" PointX="10.5" PointY="5.625" />
+        <EntityTypeShape EntityType="IgudDBModel.SignStudyHour" Width="1.5" PointX="10.5" PointY="2.5" />
+        <EntityTypeShape EntityType="IgudDBModel.StudyHour" Width="1.5" PointX="8.25" PointY="1.5" />
+        <EntityTypeShape EntityType="IgudDBModel.User" Width="1.5" PointX="3" PointY="4.5" />
+        <EntityTypeShape EntityType="IgudDBModel.Winner" Width="1.5" PointX="5.25" PointY="5.5" />
+        <AssociationConnector Association="IgudDBModel.FK_Activities_ToTable" />
+        <AssociationConnector Association="IgudDBModel.FK_SignActivities_ToTable_1" />
+        <AssociationConnector Association="IgudDBModel.FK_Winners_ToTable_1" />
+        <AssociationConnector Association="IgudDBModel.FK__Users__Community__47DBAE45" />
+        <AssociationConnector Association="IgudDBModel.FK__Guys__UserId__32E0915F" />
+        <AssociationConnector Association="IgudDBModel.FK__Guys__YeshivaId__33D4B598" />
+        <AssociationConnector Association="IgudDBModel.FK__SignStudy__GuyId__412EB0B6" />
+        <AssociationConnector Association="IgudDBModel.FK_SignActivities_ToTable" />
+        <AssociationConnector Association="IgudDBModel.FK_sector_ToTable" />
+        <AssociationConnector Association="IgudDBModel.FK__SignStudy__Study__403A8C7D" />
+        <AssociationConnector Association="IgudDBModel.FK_Winners_ToTable" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,29 @@
+<div class="form-field" dir:rtl>
+    <mat-form-field appearance="fill">
+        <mat-label >שם קהילה:</mat-label>
+        <input matInput #NameCommunity>
+      </mat-form-field> 
+      <br>
+      <mat-form-field appearance="fill">
+        <mat-label >שם רב הקהילה:</mat-label>
+        <input matInput #NameRav>
+      </mat-form-field> 
+      <br>
+      <mat-form-field appearance="fill">
+        <mat-label >רחוב:</mat-label>
+        <input matInput #Street>
+      </mat-form-field> 
+      <br>
+      <mat-form-field appearance="fill">
+        <mat-label >מספר :</mat-label>
+        <input matInput #HouseNumber type="number">
+      </mat-form-field> 
+      <br>
+      <mat-form-field appearance="fill">
+        <mat-label >עיר:</mat-label>
+        <input matInput #City >
+      </mat-form-field> 
+      <br>
+      <button mat-stroked-button color="blue" (click)="CommunityService.postCommunity(NameCommunity.value,NameRav.value,Street.value,HouseNumber.value,City.value)">שמירה</button>
+<button mat-stroked-button color="blue" (click)="close()">סגור</button>
+    </div>

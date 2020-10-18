@@ -1,0 +1,42 @@
+<div class="design-div"></div>
+<div class="table-content">
+<table id="customers">
+  <tr>
+   <th>תעודת זהות</th>
+    <th>שם פרטי</th>
+    <th>שם משפחה</th>
+    <th>מייל</th>
+    <th>קוד קהילה</th>
+    <th>תאריך לידה</th>
+    <th>רחוב </th>
+    <th>מספר </th>
+    <th>טלפון </th>
+    <th>מגזר</th>
+    <th>מחיקה</th>
+    <th>עדכון פרטים</th>
+  </tr>
+  <tr *ngFor="let user of UserService.Users">
+     <td #UserId>{{user.UserId }}</td>
+     <td>{{user.FirstName }}</td>
+     <td>{{user.LastName }}</td>
+     <td>{{user.Email }}</td>
+     <td>{{user.CommunityName}}</td>
+     <td >{{user.BirthDate |date:'shortDate'}}</td>
+     <td>{{user.Phone}}</td>
+     <td>{{user.Street}}</td>
+     <td>{{user.HouseNumber}}</td>
+     <td>{{user.Sector}}</td>
+     <!-- מחיקה עם דיאלוג -->
+     <td (click)="openDialog(user.UserId)"><img class="Image"  alt="Angular_garbage" src="../../assets/images/trash.png"></td> 
+<!-- מחיקה רגילה -->
+     <!-- <td (click)="UserService.deleteUserById(user.UserId)"><img class="Image"  alt="Angular_garbage" src="../../assets/images/trash.png"></td>  -->
+     <td (click)="put(user.UserId)"><img class="Image_Edit" src="../../assets/images/edit.png"></td>
+  </tr>
+</table>
+</div>
+
+<button mat-stroked-button color="blue" (click)="add()">הוספה</button>
+<!-- <button mat-stroked-button color="blue" (click)="UserService.putGuy()">עדכון</button>   
+<button mat-stroked-button color="blue" (click)="UserService.getGuys()">רשימת הישיבות</button>
+<button mat-stroked-button color="blue" (click)="UserService.getGuyById(1)">קבלת ישיבה</button>
+<button mat-stroked-button color="blue" (click)="UserService.deleteGuyById(3)">מחיקת ישיבה</button>  -->

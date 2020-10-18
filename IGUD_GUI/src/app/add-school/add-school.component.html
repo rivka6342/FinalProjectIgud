@@ -1,0 +1,11 @@
+<div class="form-field">
+    <mat-form-field appearance="fill">
+        <mat-label >שם ישיבה:</mat-label>
+        <input matInput #name>
+      </mat-form-field> 
+      <br>     
+      <section class="example-section">
+        <mat-checkbox class="example-margin"  #IsBig >ישיבה גדולה?</mat-checkbox>
+      </section> 
+      <button mat-stroked-button color="blue" (click)="schoolServices.postSchool(name.value,IsBig.value)">שמירה</button>
+      <button mat-stroked-button color="blue" (click)="close()">סגור</button>
